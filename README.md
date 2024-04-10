@@ -1,6 +1,5 @@
 # Python
 
-# Python 
 # double "" or single '' doesnt matter
 print("Python")
 print("####################################################################################")
